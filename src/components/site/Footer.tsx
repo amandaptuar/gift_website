@@ -16,7 +16,7 @@ export function Footer() {
           <div className="mt-6 space-y-2 text-sm">
             <div className="flex items-center gap-2"><MapPin className="h-4 w-4 text-primary" /> Mumbai, India</div>
             <div className="flex items-center gap-2"><Phone className="h-4 w-4 text-primary" /> Contact number-83023 09238</div>
-            <div className="flex items-center gap-2"><Mail className="h-4 w-4 text-primary" /> hello@giforia.com</div>
+            <div className="flex items-center gap-2"><Mail className="h-4 w-4 text-primary" /> Gmail -shankeysain75@gmail.com</div>
           </div>
           <div className="mt-5 flex gap-3">
             {[Instagram, Facebook, Twitter, Youtube].map((I, i) => (
